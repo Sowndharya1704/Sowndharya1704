@@ -24,9 +24,7 @@ Welcome to my GitHub profile! I'm passionate about web development and love work
 
 ## 📫 How to Reach Me
 
-- [LinkedIn]()
-- [Twitter]()
-- [Portfolio]()
+- [LinkedIn](https://www.linkedin.com/in/sowndharya-senthilkumar-98a211318/)
 
 Feel free to check out my repositories and leave a star if you find something interesting. I'm always open to feedback and collaboration opportunities!
 
