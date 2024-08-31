@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm passionate about web development and love work
 ## 📈 GitHub Stats
 
 ![Sowndharya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sowndharya1704&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sowndharya1704&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 
