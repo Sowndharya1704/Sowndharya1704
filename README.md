@@ -25,10 +25,8 @@ Welcome to my GitHub profile! I'm passionate about web development and love work
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](https://www.linkedin.com/in/sowndharya-senthilkumar-98a211318/)
-- [Instagram](https://www.instagram.com/sowndharya_17/)
 - "sowndharya1704@gmail.com"
-<p><a href="https://www.linkedin.com/in/sowndharya-senthilkumar-98a211318/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/sowndharya_17/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+<p><a href="https://www.linkedin.com/in/sowndharya-senthilkumar-98a211318/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <br><a href="https://www.instagram.com/sowndharya_17/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 Feel free to check out my repositories and leave a star if you find something interesting. I'm always open to feedback and collaboration opportunities!
 
